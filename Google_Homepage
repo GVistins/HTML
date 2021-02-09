@@ -1,0 +1,25 @@
+<html>
+<style>
+#search-bar{
+    border-radius: 10px;
+}
+</style>
+
+<div class = "img-responsive" id = "Google">
+<img src="https://en.wikipedia.org/wiki/Google_logo#/media/File:Google_2015_logo.svg" alt = "Google logo">
+</div>
+<div class = "img-responsive" id = "search-bar">
+<input type = "text" placeholder = "Search" required>
+</div>
+<div class = "row">
+    <div class = "img-responsive col-md-6" id = "Google-Search">
+    <button>Google Search</button>
+    </div>
+    <div class = "img-responsive col-md-6"> id = "I'm-Feeling-Lucky"
+    <button>I'm Feeling Lucky</button>
+    </div>
+</div>
+</html>
+<!--
+This is not very effective or maybe even correct, but I have no way to test it whatsoever, so it's gonna be like this until I get a way to test the site.
+-->
