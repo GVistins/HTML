@@ -1,0 +1,58 @@
+<html>
+<style>
+.rounded-corners{
+    border-radius:10px;
+}
+.font-size{
+    font-size: 23px;
+}
+.image-size{
+    width:125px;
+    height:50px;
+}
+</style>
+
+<div class = "img-responsive" id = "Search-and-image">
+<a href="google.com"><img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" class = "image-size" alt = "The google logo."></a>  
+<input type="text" class = "rounded-corners" width="700">
+</div>
+<p>
+About 8,750,000 results (0.58 seconds) 
+</p>
+<div class = "img-responsive" id = "First-result">
+<a href="rvt.lv" class="font-size">
+Rīgas Valsts tehnikums
+</a>
+<p>
+Arī PIKC “Rīgas Valsts tehnikums” Dzelzceļa nodaļa sadarbībā ar ... Raksti uz solveiga.keistere@rvt.lv, lai pieteiktu savu klasi vai skolu uz tiešsaistes karjeras ...
+</p>
+<p>
+<strong>
+Find results on:
+</strong>
+</p>
+<a href = "https://www.facebook.com/rigasvalststehnikums/?rf=115445438478540"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEVhhtEtS4k2VJROb7X///88XJ9dgctVd79GZadQeMfs8funss5nhsi5xODX3OqFnNDu8fapt9lOcr6gr9PM0uGImsZDaLIrVaQtW67f5vPH0Oc3WqL2+v90iLhPbKotUZcAOYcOQpMiSJElSIwcQIOYpsnP2OzejB5QAAAAjklEQVQYlV3KjQ6CMAxG0claKRtURJnOvyko7/+ItoBovGmWLycz5r/1UlEU8n6hrJg3AvlcWQPAtsk/0OwAeN8K2KlQQR1CsHaGcPDgjiOQJbLoh+jcaWiJDGnn6uKky1UAkZCSZ/nBfEMU0NLdu/joUCHL9JJA0mGyqd5HTjp+oRthNfX0ceh1LPCa4Q2nkgnAAnRe1AAAAABJRU5ErkJggg==" alt = "The facebook logo"></a>
+<a href = "https://www.facebook.com/rigasvalststehnikums/?rf=115445438478540">
+Facebook
+<p>
+</p>
+</a>
+</div>
+
+<div class = "img-responsive" id = "Second-result">
+<a href = "https://www.rvt.lv/macibu-stundu-saraksts" class = "font-size">
+Stundu saraksts - Rīgas Valsts tehnikums
+</a>
+<p>
+RVT 100 gadi. LATVIJAS DZELCEĻŠ. LDZ. Sociālie tīkli. PIKC RVT | TV ... Bibliotēka · Programma "Latvijas skolas soma" · Dienesta viesnīcas · PIKC RVT | TV ...
+</p>
+</div>
+
+<div class = "img-responsive" id = "Third-result">
+<a href="https://www.rvt.lv/uznemsana" class = "font-size">
+Uzņemšana - Rīgas Valsts tehnikums
+</a>
+<p>
+RVT 100 gadi. LATVIJAS DZELCEĻŠ. LDZ. Sociālie tīkli. PIKC RVT | TV. Erasmus+ mobilitātes harta. harta. Šajā kategorijā nav rakstu. Ja šajā lapā tiek rādītas ...
+</p>
+</html>
