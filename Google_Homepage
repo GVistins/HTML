@@ -1,22 +1,21 @@
-<html>
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"/>
+
 <style>
-#search-bar{
-    border-radius: 10px;
-}
+.image-size{
+height:200px;
+width:300px;
 </style>
 
 <div class = "img-responsive" id = "Google">
-<img src="https://beta.ctvnews.ca/national/business/2019/11/13/1_4683647/_jcr_content/root/responsivegrid/image.coreimg.jpeg/1573666145900/1-2542940.jpeg" alt = "Google logo">
+<a href = "www.google.com"><img src="https://beta.ctvnews.ca/national/business/2019/11/13/1_4683647/_jcr_content/root/responsivegrid/image.coreimg.jpeg/1573666145900/1-2542940.jpeg" class = "image-size" alt = "Google logo"> </a>
 </div>
-<div class = "img-responsive block" id = "search-bar">
+<div class = "img-responsive" id = "search-bar">
 <input type = "text" placeholder = "Search" required>
 </div>
-<div class = "row btn-group">
-    <div class = "img-responsive col-md-6" id = "Google-Search">
+<div class = "img-responsive">
+    <div id = "Google-Search">
     <button>Google Search</button>
     </div>
-    <div class = "img-responsive col-md-6" id = "I'm-Feeling-Lucky">
+    <div id = "I'm-Feeling-Lucky">
     <button>I'm Feeling Lucky</button>
     </div>
 </div>
